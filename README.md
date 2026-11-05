@@ -2,7 +2,7 @@
 
 纯静态应用配置、图标和配方包，不需要 Node.js、数据库或 Ferdium API。
 
-目录地址：https://hellotimi.github.io/wowchat-app-catalog/apps.json
+目录地址：https://apps.wowchat.eu.cc/apps.json
 
 已包含 Gmail、微信、WhatsApp、Telegram、Facebook、Discord。
 
@@ -40,3 +40,7 @@ GitHub 仓库 Settings → Pages → Deploy from a branch → main → /(root)�
 
 配方源码取自 Ferdium 开源配方仓库，来源提交见 UPSTREAM.json，许可证见 UPSTREAM-LICENSE.md 及各配方自带 LICENSE。
 运行时不需要连接 Ferdium。各应用本身仍需连接对应的 Google、微信、Meta、Telegram、Discord 网站。
+
+## 自定义域名
+
+GitHub Pages 域名为 apps.wowchat.eu.cc。Cloudflare 为 wowchat.eu.cc 添加 CNAME：名称 apps，目标 hellotimi.github.io，使用仅 DNS（关闭代理）。待 DNS 和 GitHub 证书就绪后启用 Enforce HTTPS。
