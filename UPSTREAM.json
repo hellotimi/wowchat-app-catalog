@@ -1,0 +1,36 @@
+{
+  "repository": "https://github.com/ferdium/ferdium-recipes",
+  "commit": "d606edecc575a08a22f05d8f6113e8906e3d1012",
+  "packages": [
+    {
+      "id": "gmail",
+      "commit": "d606edecc575a08a22f05d8f6113e8906e3d1012",
+      "sha256": "a0329d7e7be98218b53ef7af0a68dcb1af02d5e33d660bb6ed5b27ad65f7e5fb"
+    },
+    {
+      "id": "wechat",
+      "commit": "d606edecc575a08a22f05d8f6113e8906e3d1012",
+      "sha256": "b7bcd3fd9e32fbf475baebffb2c02b6677e40cb94f28983c364ea99b413edd34"
+    },
+    {
+      "id": "whatsapp",
+      "commit": "d606edecc575a08a22f05d8f6113e8906e3d1012",
+      "sha256": "6d7a2f8ac7ede1889bc20d4e197d55bd898ff2746d05bd9aa581aa8febc2fa52"
+    },
+    {
+      "id": "telegram",
+      "commit": "d606edecc575a08a22f05d8f6113e8906e3d1012",
+      "sha256": "99197ab09540f6267f1bf875711d8a3229e007c6e7c5a25adbcfd45629efca44"
+    },
+    {
+      "id": "facebook",
+      "commit": "d606edecc575a08a22f05d8f6113e8906e3d1012",
+      "sha256": "100ecfed8ca7f873e95ffbc902fe026e8120351e1ba2ddc3067c987dbbeb7d88"
+    },
+    {
+      "id": "discord",
+      "commit": "d606edecc575a08a22f05d8f6113e8906e3d1012",
+      "sha256": "d003928e0549f4b67c3607e7a728be0406ad5141d2ba568f37825f553721bd10"
+    }
+  ]
+}
